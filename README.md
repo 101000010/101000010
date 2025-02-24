@@ -1,5 +1,5 @@
 ## Creating.... Chaos
-- I am currently working as a research associate at TU-Chemnitz
+- I am working as a research associate at TU-Chemnitz
 - My research is currently focused on the topics: Embodiment, Teleoperation, Agency, Gamification, VR
 
 <!--
